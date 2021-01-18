@@ -1,5 +1,7 @@
 # 学习git
 
 新加一行
+新分支feature-A
 
-新分支feature-A12313
+fix-B
+>>>>>>> fix-B
